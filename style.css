@@ -1,0 +1,25 @@
+body {
+    font-family: 'Delius', cursive;
+    background:linear-gradient(315deg, #C6FFDD 0%, #FBD786 50%, #f7797d 100%);
+}
+
+#m {
+    height:250px;
+    width:450px;
+}
+#m1 {
+    width:400px;
+    height: 300px;
+}
+span
+{
+    width:350px;
+    height: 200px;
+    background-color: #C6FFDD;
+    border-radius: 20px;
+}
+label
+{
+    width:150px;
+    height: 50px;
+}
