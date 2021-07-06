@@ -13,7 +13,7 @@ body {
 }
 span
 {
-    width:350px;
+    width:400px;
     height: 200px;
     background-color: #C6FFDD;
     border-radius: 20px;
@@ -22,4 +22,9 @@ label
 {
     width:150px;
     height: 50px;
+    border-radius: 20px;
+}
+h5 {
+    background-color: #C6FFDD;
+    border-radius: 20px;
 }
